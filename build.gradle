@@ -17,7 +17,7 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "1.0"
+version = "Alpha_1"
 group= "com.brandonkyle.bk_mod" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "bk_mod"
 
