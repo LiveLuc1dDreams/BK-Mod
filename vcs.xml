@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/StellenDasStahlUberall/BK-Mod.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/StellenDasStahlUberall/CS-102_Assignment-1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\brant_000\Desktop\Coding Stuff\Projects\Minecraft\1.7" />
